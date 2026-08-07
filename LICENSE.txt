@@ -3,12 +3,9 @@ THE UNCLAIMED SELF | SHADOW & AUTHENTICITY
 Copyright (c) 2026 Matthew Danner. All rights reserved.
 
 This is not an open source license, but it is a free one: the program may be
-used and passed on freely, and may not be sold or altered. It was not drafted
-by a lawyer. If this program is distributed at any scale, have these terms
-reviewed by someone qualified.
-
-The wording shown to users inside the program lives in ui/terms.py and should
-be kept in agreement with this file.
+used and passed on freely, and may not be sold or altered. It is written in
+plain English rather than boilerplate, so that the person it applies to can
+read it.
 
 
 PERMITTED

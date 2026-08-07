@@ -74,6 +74,25 @@ Download the zip, unpack it, and keep the folder together. Run
 `TheUnclaimedSelf-BETA.exe` from inside it. The program will not start without
 the files beside it.
 
+### Checking you got what I published
+
+The program is not code signed, so Windows cannot tell you where it came from.
+This is the other way to be sure. The SHA-256 of the beta 9 zip is:
+
+```
+076e68f602940eb5e3f34628b9fef227f1c8dccb23419be09521fd0ea523357b
+```
+
+Check yours before you unpack it:
+
+```powershell
+Get-FileHash TheUnclaimedSelf-BETA-1.2.0-beta.9.zip -Algorithm SHA256
+```
+
+If it matches, the file you have is the file I released, whatever it travelled
+through on the way. If it does not match, do not run it, and please tell me
+where you got it.
+
 ## Please pass it on
 
 Give this to anyone you like, as many people as you like, without asking. Copy
