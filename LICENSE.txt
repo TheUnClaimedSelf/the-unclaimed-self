@@ -1,0 +1,78 @@
+THE UNCLAIMED SELF | SHADOW & AUTHENTICITY
+
+Copyright (c) 2026 Matthew Danner. All rights reserved.
+
+This is not an open source license, but it is a free one: the program may be
+used and passed on freely, and may not be sold or altered. It was not drafted
+by a lawyer. If this program is distributed at any scale, have these terms
+reviewed by someone qualified.
+
+The wording shown to users inside the program lives in ui/terms.py and should
+be kept in agreement with this file.
+
+
+PERMITTED
+
+You may install and use this program on computers you own or control, for your
+own personal, non-commercial purposes.
+
+You may give this program to anyone. Copy it, send it, put it on a drive, host
+it for download, hand it to a friend or to a room full of strangers. There is
+no limit on how many people you pass it to and no need to ask first.
+
+Two conditions on passing it on, and nothing else: give away the complete
+package exactly as you received it, and charge nothing for it.
+
+
+NOT PERMITTED
+
+You may not sell, rent, lease, or sublicense this program or any part of it, or
+charge any fee for it, or bundle it with anything sold for money. Free means
+free at every hop, not free from the author and priced by whoever passes it on
+next.
+
+You may not modify, adapt, translate, decompile, disassemble, or reverse
+engineer this program, or attempt to derive its source code, except to the
+extent that applicable law expressly permits despite this restriction. Share
+what you were given, not a version of it somebody has changed: what carries the
+author's name should be what the author wrote.
+
+You may not remove or alter any copyright, license, or attribution notice, or
+present this program as your own work.
+
+
+NO WARRANTY
+
+THIS PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM OR IN CONNECTION WITH THIS PROGRAM OR ITS USE,
+INCLUDING WITHOUT LIMITATION THE LOSS OF ANY DATA IT STORES.
+
+
+NOT A MEDICAL OR PSYCHOLOGICAL SERVICE
+
+This program is a self-reflection tool. It does not provide therapy,
+counseling, diagnosis, or medical or psychological treatment, and it is not a
+substitute for any of them. Its output describes patterns in the answers a user
+gave it, and nothing more.
+
+
+THIRD-PARTY MATERIAL
+
+Any video, audio, or other media distributed alongside this program may have
+been created by other people. All rights in that material remain with its
+original creators and copyright holders. Nothing in this license grants any
+right to that material, and the permissions above do not extend to it.
+
+Third-party Python packages used by this program are covered by their own
+licenses, which are unaffected by this one.
+
+
+GOVERNING LAW
+
+These terms are governed by the laws of the State of Maryland, without regard
+to its conflict of law rules.
