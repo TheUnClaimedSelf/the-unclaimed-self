@@ -77,21 +77,27 @@ the files beside it.
 ### Checking you got what I published
 
 The program is not code signed, so Windows cannot tell you where it came from.
-This is the other way to be sure. The SHA-256 of the beta 9 zip is:
-
-```
-076e68f602940eb5e3f34628b9fef227f1c8dccb23419be09521fd0ea523357b
-```
-
-Check yours before you unpack it:
+This is the other way to be sure. Every release publishes a `SHA256SUMS.txt`
+beside the download, and the checksum is in the release notes as well. Check
+yours before you unpack it:
 
 ```powershell
-Get-FileHash TheUnclaimedSelf-BETA-1.2.0-beta.9.zip -Algorithm SHA256
+Get-FileHash TheUnclaimedSelf-BETA.zip -Algorithm SHA256
 ```
 
-If it matches, the file you have is the file I released, whatever it travelled
-through on the way. If it does not match, do not run it, and please tell me
-where you got it.
+If it matches, the file arrived intact, whatever it travelled through on the
+way. If it does not match, do not run it, and please tell me where you got it.
+
+Worth being straight about the limit of this. The checksum and the file come
+from the same place, so it catches a corrupted or interrupted download rather
+than proving the release is mine. If you want that stronger check, email me at
+the address below and I will send you the value directly, and you can compare
+it against what GitHub gave you.
+
+<!-- The number is not written into this file, deliberately. It is different
+     every build, and a stale checksum in a README is worse than none: it tells
+     a careful person their good download is bad. It lives on the release,
+     which is the one place that cannot go out of date. -->
 
 ## Please pass it on
 
